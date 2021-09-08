@@ -2,6 +2,7 @@
     "about": "About",
     "projects": "Projects",
     "contact": "Contact",
+	"personal_project": "Personal project",
 	"professional_projects": "Professional projects",
 	"student_projects": "Student projects",
 	"contact_me": "Contact me",
@@ -11,6 +12,15 @@
 	"cv_label": "Check my CV",
 	"cv_image_src": "assets/images/CV_en.png",
 	"cv_href": "assets/documents/CV_Romuald_Rugoletto_HD_en.pdf",
+	
+	"vuranib_p0": "Turn-based multiplayer tactical game developed with Unity 3D (C#) for smartphones",
+	"vuranib_p1": "The player will evolve several teams of pirates by facing other teams of players online in tactical turn-based battles. During a battle, each player has 5 minutes to eliminate the opposing captain by using the powers and movements of his crew members.",
+	"vuranib_st1": "<u>Developments done on the Unity 3D game (C#)</u>",
+	"vuranib_p2": "<ul class='mb-3 text-left'><li>Implementation of a scalable architecture.</li><li>Development of the core gameplay with almost 10 different characters.</li><li>Secure and synchronized communication with the server. The real-time connection being necessary in battle since each player has 5mins to win.</li><li>Development of the team creation system.</li><li>Implementation of a ranking system.</li><li>Implementation of unit tests.</li><li>Development of several tools to simplify repetitive development tasks:<ul><li>DataUpdater: update the server database from Unity's Scriptables Objects (and vice versa).</li><li>PseudoFENGenerator: I based on the Forsyth-Edwards notation by adding the specificities of my game, which allows me to create terrains with particular situations to test the skills of some units in game, but also to write unit tests more quickly and efficiently.</li><li>Spritesheet importer: imports spritesheets into Unity by creating by default the folders, animations, etc. This system saves me a lot of time when creating a new character.</li></ul></li></ul>",
+	"vuranib_st2":"<u>Developments achieved on NodeJS server (Typescript/Javascript)</u>",
+	"vuranib_p3":"<ul class='mb-3 text-left'><li>Implementation of API</li><li>Combat instance management, players only display the game state they received from the server and communicate only with it (which should limit the possibilities of cheating).</li><li>Player profile management (personal information, ranking, teams, etc.).</li><li>Implementation of unit tests.</li><li>Development of a second server reserved for the AI. My game may not be known so to overcome the lack of opponents, players will face an AI if the time to find an opponent exceeds 30seconds. For the main server, a connection from this second server is considered a regular player connection. This architecture allows me to have a management of the fights without particular cases and a less big workload on the main server.</li></ul>",
+	"vuranib_st3":"<u>Remaining goals for the alpha version</u>",
+	"vuranib_p4":"<ul class='mb-3 text-left'><li>Design and integrate 10 characters with their own identity (graphics + movement + skills + lore).</li><li>Design and integrate a striking interface consistent with the game's universe. </li><li>Develop an in-game store.</li><li>Develop a daily/weekly/seasonal quest system.</li><li>Develop a battle pass system.<li>Host the servers (currently local) online.</li></ul>",
 	
 	"darkness_p0": "Rail shooter on PSVR in virtual reality developed with Unity 3D (C#)",
 	"darkness_p1": "I contributed to the development of <i>Darkness RollerCoaster: Ultimate Shooter Edition</i> from may 2018 to september 2019. First as part of a four-month internship leading to the validation of my first year of master's degree. Then by continuing the collaboration with the company after the internship as a freelancer. To finish with a new six-month internship thus validating my last year of study and allowed us to complete the game's development.",

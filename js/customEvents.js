@@ -29,6 +29,7 @@ $(document).ready(() => {
 	// Load modales only on click
 	const modales = [
 		'resume',
+		'vuranib',
 		'darkness',
 		'excessive_speed',
 		'ram',

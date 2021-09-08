@@ -2,6 +2,7 @@
     "about": "À propos",
     "projects": "Projets",
     "contact": "Contact",
+	"personal_project": "Projet personnel",
 	"professional_projects": "Projets professionnels",
 	"student_projects": "Projets étudiants",
 	"contact_me": "Me contacter",
@@ -11,6 +12,15 @@
 	"cv_label": "Voir mon CV",
 	"cv_image_src":"assets/images/CV_fr.png",
 	"cv_href": "assets/documents/CV_Romuald_Rugoletto_HD_fr.pdf",
+	
+	"vuranib_p0": "Jeu tactique multijoueur au tour par tour développé avec Unity 3D (C#) à destination des smartphones",
+	"vuranib_p1": "Le joueur fera évoluer plusieurs équipes de pirates en affrontant d'autres équipes de joueurs en ligne dans des combats tactiques au tour par tour. Lors d'un combat, chaque joueur a 5 mins pour éliminer le capitaine adverse en utilisant au mieux les pouvoirs et déplacements des membres de son équipage.",
+	"vuranib_st1": "<u>Développements accomplis sur le jeu Unity 3D (C#)</u>",
+	"vuranib_p2": "<ul class='mb-3 text-left'><li>Mise en place d'une architecture scalable.</li><li>Développement du core gameplay avec pour l'instant un peu moins de 10 personnages différents.</li><li>Communication sécurisée et synchronisée avec le serveur. La connexion en temps réel étant nécessaire en combat puisque chaque joueur à 5mins pour gagner.</li><li>Développement du système de création d'équipe.</li><li>Mise en place d'un système de classement.</li><li>Mise en place de tests unitaires.</li><li>Développement de plusieurs outils pour simplifier les tâches de développement répétitives :<ul><li>DataUpdater: mise à jour de la base de données du serveur depuis les scriptables objets d'Unity (et inversement).</li><li>PseudoFENGenerator: Je me suis basé sur la notation Forsyth-Edwards en ajoutant les spécificités de mon jeu, ce qui me permet de créer des terrains avec des situations particulières pour tester les compétences de certaines unités en jeu, mais aussi d'écrire des tests d'unitaires plus rapidement et efficacement.</li><li>Spritesheet importer: importe des feuilles de sprites dans Unity en créant par défaut les dossiers, les animations, etc. Ce système me fait gagner beaucoup de temps lors de la création d'un nouveau personnage.</li></ul></li></ul>",
+	"vuranib_st2": "<u>Développements accomplis sur le serveur NodeJS (Typescript/Javascript)</u>",
+	"vuranib_p3": "<ul class='mb-3 text-left'><li>Mise en place de l'API</li><li>Gestion d'instance de combat, les joueurs affichent uniquement l'état du jeu qu'ils ont reçu du serveur et communiquent uniquement avec lui (ce qui devrait limiter les possibilités de triche).</li><li>Gestion de profil joueur (informations personnelles, classement, équipes, etc.).</li><li>Mise en place de tests unitaires.</li><li>Développement d'un deuxième serveur réservé à l'IA. Mon jeu risque de ne pas être connu alors pour pallier le manque d'adversaires, les joueurs affronteront une IA si le temps pour trouver un adversaire dépasse 30secondes. Pour le serveur principal, une connexion à partir de ce second serveur est considérée comme une connexion de joueur. Cette architecture me permet d'avoir une gestion des combats sans cas particuliers et une moins grosse charge de travail sur le serveur principal.</li></ul>",
+	"vuranib_st3": "<u>Objectifs restants pour la version alpha</u>",
+	"vuranib_p4": "<ul class='mb-3 text-left'><li>Designer et intégrer 10 personnages avec une identité propre (graphismes + déplacements + compétences + lore).</li><li>Designer et intégrer une interface marquante et en cohérence avec l'univers du jeu.</li><li>Développer une boutique en jeu.</li><li>Développer un système de quêtes journalières/hebdomadaires/saisonnières.</li><li>Développer un système de passe de combat.<li>Héberger les serveurs (actuellement en local) en ligne.</li></ul>",
 	
 	"darkness_p0": "Rail shooter sur PSVR en réalité virtuelle développé avec Unity 3D (C#)",
 	"darkness_p1": "J'ai participé au développement de <i>Darkness RollerCoaster: Ultimate Shooter Edition</i> de mai 2018 à septembre 2019. D'abord dans le cadre d'un stage d'une durée de quatre mois donnant lieu à la validation de ma première année de master. Puis en poursuivant la collaboration avec l'entreprise après le stage en tant que freelance. Pour finir avec un nouveau stage de six mois validant ainsi ma dernière année d'étude et nous permettant d’achever le développement du jeu.",
