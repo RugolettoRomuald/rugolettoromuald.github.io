@@ -1,0 +1,1 @@
+*.{pdf,afdesign,jpg,png,psd,ico,gif} filter=lfs diff=lfs merge=lfs -text

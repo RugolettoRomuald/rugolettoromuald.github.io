@@ -1,0 +1,47 @@
+{
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+	"professional_projects": "Professional projects",
+	"student_projects": "Student projects",
+	"contact_me": "Contact me",
+	
+	"about_p0": "After obtaining a degree in Mobile Application Development, during which I was able to create games on Android and Windows Phone, I specialized by continuing an Innovative Project Management Master in video games.",
+	"about_p1": "In this class, I acquired a solid knowledge of project management while improving my programming skills as a developer in each of the projects I have participated in.",
+	"cv_label": "Check my CV",
+	"cv_image_src": "assets/images/CV_en.png",
+	"cv_href": "assets/documents/CV_Romuald_Rugoletto_HD_en.pdf",
+	
+	"darkness_p0": "Rail shooter on PSVR in virtual reality developed with Unity 3D (C#)",
+	"darkness_p1": "I contributed to the development of <i>Darkness RollerCoaster: Ultimate Shooter Edition</i> from may 2018 to september 2019. First as part of a four-month internship leading to the validation of my first year of master's degree. Then by continuing the collaboration with the company after the internship as a freelancer. To finish with a new six-month internship thus validating my last year of study and allowed us to complete the game's development.",
+	"darkness_p2": "<li>Unity 3D build on PSVR (Playstation 4)</li><li>Core gameplay development (shooting / protection / inventory / points /...)</li><li>Development of unity tools (camera filter manager / cross-platform input controller /...)</li><li>Procedural generation of levels</li>",
+	
+	"excessive_speed_p0": "Smartphone car game in augmented reality (ARKit / ARCore) with Unity 3D (C#)",
+	"excessive_speed_p1": "I took part in the development of Excessive Speed at the end of its production over the period may-june 2018 during a four-month internship leading to the validation of my first year of master's degree.",
+	"excessive_speed_p2": "<li>Development of a bonus / malus manager</li><li>Added a calibration function to correctly define the game area (size / distance / orientation)</li><li>Improvement of the 'Try again' function so that the ARKit and ARCore keep the anchor points between scenes</li>",
+	
+	"ram_p0": "Adventure game on smartphone with Unity 3D (C#)",
+	"ram_p1": "Gameplay mixes various types of games (adventure, infiltration, running) and makes players evolve in a galaxy endangered by an occult group. This project was carried out as part of my second year of master's degree in collaboration with 6 other people, from october 2018 until our presentation at the International Festival of Games in Cannes in february 2019. Initially planned with more gameplay phases, we had to review the GDD and replace several phases with cinematics (2D ones) due to a lack of time and human resources.",
+	"ram_p2": "<li>Development of all functionalities (only developer in the team)</li><li>Integration (sounds / level design / images / animations /...)</li><li>3D Help: the scope of the project required that the entire team produce graphical assets</li>",
+	
+	"perfect_match_p0": "Beat them all developed for Android with the Unity3d engine (C#)",
+	"perfect_match_p1": "The player controls a couple of characters who will have to fight together against the henchmen of the Infernos' master, with a single objective: to protect each other. This project was carried out as part of my first year of master's degree in collaboration with 5 other people, from october 2017 until our presentation at the Cannes International Games Festival in february 2018.",
+	"perfect_match_p2": "<li>Development of boss and enemy patterns (state machine)</li><li>Implementation of A* (pathfinding) based not on Unity's navmesh but on colliders</li><li>Integration of player, object and boss animations</li>",
+	
+	"g7_p0": "Car game on Windows Phone native (C# / XAML)",
+	"g7_p1": "The player controls a vehicle that tries to escape the police by driving in the wrong direction. The goal is to make as many points as possible by going as far as possible by dodging vehicles that arrive in front. The game includes the ability to enter a nickname, choose your vehicle and a ranking to compare yourself to the other players. This project was done as part of my license in mobile application development and was my first Game jam (less than 24 hours of development), but without any theoretical knowledge in video game development. This is what gave me the desire to continue my studies with a master's degree in video games.",
+	"g7_p2": "<li>Development of the engine part (physics / collision management / acceleration / instantiation according to the Object pool pattern / ...)</li><li>Implementation of the gameplay (displacements / balancing between acceleration and vehicle spawn /...)</li><li>Saving preferences (profiles / ranking)</li>",
+	
+	"rgame_p0": "Speed and visual acuity game developed for Android native (Java)",
+	"rgame_p1": "RGame is a fan-game for Nintendo Mario and Pokemon games, in which the player will have to find the intruder symbol as quickly as possible among many moving targets. The game has 4 levels of difficulty, several game modes with customizable themes and a multiplayer ranking. RGame is the first game I developed, I made the whole game except for the graphics which are exclusively fan art nintendo sprites.",
+	
+	"form_label_name": "Name",
+	"form_label_email": "Email adress",
+	"form_label_message": "Message",
+	"form_placeholder_name": "Name",
+	"form_placeholder_email": "Email adress",
+	"form_placeholder_message": "Message",
+	"form_send": "Send",
+	
+	"return":"Return"
+}

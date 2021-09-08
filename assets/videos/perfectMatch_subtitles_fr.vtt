@@ -1,0 +1,49 @@
+﻿WEBVTT
+
+1
+00:01:29.000 --> 00:01:34.000
+Ce que nous proposons à travers ce projet est un univers onirique et coloré.
+
+2
+00:01:35.000 --> 00:01:49.000
+Le joueur incarne le chat bleu (Vega) et sera chargé d'éliminer les ennemis tout au long du niveau.
+
+3
+00:01:50.000 --> 00:01:54.000
+Le second chat (Gen) sera garant de l'avancement du niveau et de la progression du joueur.
+
+4
+00:01:55.000 --> 00:01:59.000
+Quand des ennemis s'approchent de Gen, sa jauge de stress monte, ce qui ralentit Gen et l'arrête s'il y a trop d'ennemis.
+
+5
+00:02:00.000 --> 00:02:04.000
+Vega doit alors dégager le chemin pour que Gen continue d'avancer.
+
+6
+00:02:05.000 --> 00:02:14.000
+En enchainant les coups, le joueur charge des compétences lui permettant de se débarasser plus facilement de ces adversaires.
+
+7
+00:02:15.000 --> 00:02:21.000
+4 compétences sont disponibles : le Bâton Magique, la Flamme d'Anathor, la Carapace et le God Mod
+
+8
+00:02:52.000 --> 00:02:55.000
+Nous n'avions pas terminé d'implémenter le score pour le festival des jeux 2018.
+
+9
+00:03:22.000 --> 00:03:26.000
+La carapace permet également de diminuer la jauge de stress de Gen.
+
+10
+00:04:25.000 --> 00:04:36.000
+Lorsque la jauge de stress est entièrement remplie, Vega a une chance de sauver Gen et de ne pas perdre sa progression.
+
+11
+00:04:39.000 --> 00:04:44.000
+Il plonge alors dans les enfers et doit sauver Gen avant qu'il soit trop tard.
+
+12
+00:04:45.000 --> 00:04:49.000
+Le joueur doit alors se déplacer le plus efficacement possible et utilisant les ennemis comme appui.

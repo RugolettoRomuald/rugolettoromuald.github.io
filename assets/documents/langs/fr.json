@@ -1,0 +1,47 @@
+{
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+	"professional_projects": "Projets professionnels",
+	"student_projects": "Projets étudiants",
+	"contact_me": "Me contacter",
+	
+	"about_p0": "Après avoir obtenu une licence dans le Développement d’Applications Mobiles, durant laquelle j’ai pu créer des jeux sur Android et Windows Phone, je me suis spécialisé en poursuivant un master Management de Projet Innovant en jeux vidéo.",
+	"about_p1": "J’ai acquis dans cette formation de solides connaissances en gestion de projet tout en continuant d’améliorer mes compétences en programmation en tant que développeur dans chacun des projets auxquels j’ai participé.",
+	"cv_label": "Voir mon CV",
+	"cv_image_src":"assets/images/CV_fr.png",
+	"cv_href": "assets/documents/CV_Romuald_Rugoletto_HD_fr.pdf",
+	
+	"darkness_p0": "Rail shooter sur PSVR en réalité virtuelle développé avec Unity 3D (C#)",
+	"darkness_p1": "J'ai participé au développement de <i>Darkness RollerCoaster: Ultimate Shooter Edition</i> de mai 2018 à septembre 2019. D'abord dans le cadre d'un stage d'une durée de quatre mois donnant lieu à la validation de ma première année de master. Puis en poursuivant la collaboration avec l'entreprise après le stage en tant que freelance. Pour finir avec un nouveau stage de six mois validant ainsi ma dernière année d'étude et nous permettant d’achever le développement du jeu.",
+	"darkness_p2": "<li>Unity 3D build sur PSVR (Playstation 4)</li><li>Développement Core gameplay (tir / protection / inventaire / points / ...)</li><li>Développement d'outils unity (gestionnaire de filtre caméra / contrôleur d'entrées multiplateforme / ...)</li><li>Génération procédurale de niveaux</li>",
+	
+	"excessive_speed_p0": "Jeu de voiture sur smartphone en réalité augmentée (ARKit / ARCore) avec Unity 3D (C#)",
+	"excessive_speed_p1": "J'ai participé au développement d'<i>Excessive Speed</i> en fin de sa production sur la période mai-juin 2018 durant un stage d'une durée de quatre mois donnant lieu à la validation de ma première année de master.",
+	"excessive_speed_p2": "<li>Développement d'un gestionnaire de bonus / malus</li><li>Ajout d'une fonction de callibrage permettant de définir correctement la zone de jeu (taille / distance / orientation)</li><li>Amélioration de la fonction 'Réessayer' pour que l'ARKit et l'ARCore gardent les points d'ancrage entre les scènes</li>",
+	
+	"ram_p0": "Jeu d'aventure sur smartphone avec Unity 3D (C#)",
+	"ram_p1": "Le gameplay mélange différents genres de jeux (aventure, infiltration, course) et fait évoluer le joueur dans une galaxie mise en péril par un groupe occulte. Ce projet a été réalisé dans le cadre de ma deuxième année de master en collaboration avec 6 autres personnes, d'octobre 2018 jusqu'à notre présentation au <i>Festival Internationnal des Jeux</i> à Cannes en février 2019. Initialement prévu avec plus de phases de gameplay, nous avons dù revoir le GDD et remplacer plusieurs phases par des cinématiques (celles en 2D) par manque de ressources temps et humaines.",
+	"ram_p2": "<li>Développement de l'ensemble des fonctionnalités (seul développeur de l'équipe)</li><li>Intégration (sons / level design / images / animations / ...)</li><li>Aide à la 3D: la portée du projet a nécéssité que toute l'équipe produise des assets graphiques</li>",
+	
+	"perfect_match_p0": "Beat them all développé pour Android avec le moteur Unity3d (C#)",
+	"perfect_match_p1": "Le joueur y contrôle un couple de personnages qui devront se battre ensemble contre les sbires du maître des enfers, avec un seul objectif : se protéger l'un l'autre. Ce projet a été réalisé dans le cadre de ma première année de master en collaboration avec 5 autres personnes, d'octobre 2017 jusqu'à notre présentation au <i>Festival Internationnal des Jeux</i> à Cannes en février 2018.",
+	"perfect_match_p2": "<li>Développement des patterns du boss et de chaque ennemi (machine à états)</li><li>Implémentation de A* (pathfinding) en se basant non pas sur le navmesh d'Unity mais sur les colliders</li><li>Intégration des animations du joueur, des objets et du boss</li>",
+	
+	"g7_p0": "Jeu de voiture sur Windows Phone en natif (C# / XAML)",
+	"g7_p1": "Le joueur y contrôle un véhicule qui tente de fuir la police en roulant à contre sens. Le but étant de faire le plus de points en allant le plus loin possible en esquivant les véhicules qui arrivent en face. Le jeu comprend la possibilité d'entrer un pseudo, de choisir son véhicule ainsi qu'un classement permettant de se comparer aux autres joueurs. Ce projet a été réalisé dans le cadre de ma licence en développement d'applications mobiles et constituait ma première Game jam (moins de 24h de développement), mais sans aucune connaissance théorique dans le développement de jeu vidéo. C'est ce qui m'a donné l'envie de poursuivre mes études avec un master spécialisé dans le jeu vidéo.",
+	"g7_p2": "<li>Développement de la partie moteur (physique / gestion des collisions / accélération / instanciation suivant l'Object pool pattern  / ...)</li><li>Implémentation du gameplay (déplacements / équilibrage entre accélération et spawn de véhicules /...)</li><li>Sauvegarde des préférences (profils / classement)</li>",
+	
+	"rgame_p0": "Jeu de rapidité et d’acuité visuelle développé pour Android en natif (Java)",
+	"rgame_p1": "RGame est un fan-game des jeux Nintendo Mario et Pokemon, dans lequel le joueur va devoir trouver le symbole intrus le plus rapidement possible parmi de nombreuses cibles en mouvements. Le jeu comporte 4 niveaux de difficulté, plusieurs modes de jeu avec des thèmes customisables et un classement multijoueur. RGame est le premier jeu que j'ai développé, j'ai réalisé l'ensemble du jeu à l'exception des graphismes qui sont exclusivement des sprites de fan art nintendo.",
+	
+	"form_label_name": "Nom",
+	"form_label_email": "Adresse mail",
+	"form_label_message": "Message",
+	"form_placeholder_name": "Nom",
+	"form_placeholder_email": "Adresse mail",
+	"form_placeholder_message": "Message",
+	"form_send": "Envoyer",
+	
+	"return":"Retour"
+}
