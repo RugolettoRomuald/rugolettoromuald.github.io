@@ -7819,7 +7819,7 @@ textarea.form-control-lg {
 
 .bg-tertiary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgba(var(--bs-black-rgb), var(--bs-bg-opacity)) !important;
   background-image: url("../assets/images/bg_02.gif");
   background-repeat: no-repeat;
   background-size: cover;

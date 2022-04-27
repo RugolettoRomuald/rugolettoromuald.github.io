@@ -11,7 +11,7 @@
 	"about_p1": "J’ai acquis dans cette formation de solides connaissances en gestion de projet tout en continuant d’améliorer mes compétences en programmation en tant que développeur dans chacun des projets auxquels j’ai participé.",
 	"cv_label": "Voir mon CV",
 	"cv_image_src":"assets/images/CV_fr.png",
-	"cv_href": "assets/documents/CV_Romuald_Rugoletto_HD_fr.pdf",
+	"cv_href": "assets/documents/CV_Romuald_Rugoletto_fr.pdf",
 	
 	"vuranib_p0": "Jeu tactique multijoueur au tour par tour développé avec Unity 3D (C#) à destination des smartphones",
 	"vuranib_p1": "Le joueur fera évoluer plusieurs équipes de pirates en affrontant d'autres équipes de joueurs en ligne dans des combats tactiques au tour par tour. Lors d'un combat, chaque joueur a 5 mins pour éliminer le capitaine adverse en utilisant au mieux les pouvoirs et déplacements des membres de son équipage.",
@@ -22,6 +22,10 @@
 	"vuranib_st3": "<u>Objectifs restants pour la version alpha</u>",
 	"vuranib_p4": "<ul class='mb-3 text-left'><li>Designer et intégrer 10 personnages avec une identité propre (graphismes + déplacements + compétences + lore).</li><li>Designer et intégrer une interface marquante et en cohérence avec l'univers du jeu.</li><li>Développer une boutique en jeu.</li><li>Développer un système de quêtes journalières/hebdomadaires/saisonnières.</li><li>Développer un système de passe de combat.<li>Héberger les serveurs (actuellement en local) en ligne.</li></ul>",
 	
+	"dofus_p0": "MMORPG tactique au tour par tour sortie en 2004 (Java)",
+	"dofus_p1": "Au sein de l'équipe serveur, j'ai participé au maintien, au développement et à l'intégration de fonctionnalités du jeu <i>Dofus</i>, tout en veillant à la stabilité des serveurs pour supporter les milliers de joueurs journaliers qui les peuplent.",
+	"dofus_p2": "<li>Développement et amélioration d'outils de modération</li><li>Implémentation et refactoring de fonctionnalités in-game</li><li>Conception et refactoring de l’architecture de plusieurs modules du projet</li><li>Maintenance hebdomadaires des serveurs</li><li>Veille continuelle à la maintenabilité du code et à la stabilité des serveurs afin d’offrir la meilleure expérience aux joueurs</li><li>Elaboration et réalisation de tests fonctionnels</li><li>Rédaction de documentation et veille technique</li>",
+	
 	"darkness_p0": "Rail shooter sur PSVR en réalité virtuelle développé avec Unity 3D (C#)",
 	"darkness_p1": "J'ai participé au développement de <i>Darkness RollerCoaster: Ultimate Shooter Edition</i> de mai 2018 à septembre 2019. D'abord dans le cadre d'un stage d'une durée de quatre mois donnant lieu à la validation de ma première année de master. Puis en poursuivant la collaboration avec l'entreprise après le stage en tant que freelance. Pour finir avec un nouveau stage de six mois validant ainsi ma dernière année d'étude et nous permettant d’achever le développement du jeu.",
 	"darkness_p2": "<li>Unity 3D build sur PSVR (Playstation 4)</li><li>Développement Core gameplay (tir / protection / inventaire / points / ...)</li><li>Développement d'outils unity (gestionnaire de filtre caméra / contrôleur d'entrées multiplateforme / ...)</li><li>Génération procédurale de niveaux</li>",
@@ -31,11 +35,11 @@
 	"excessive_speed_p2": "<li>Développement d'un gestionnaire de bonus / malus</li><li>Ajout d'une fonction de callibrage permettant de définir correctement la zone de jeu (taille / distance / orientation)</li><li>Amélioration de la fonction 'Réessayer' pour que l'ARKit et l'ARCore gardent les points d'ancrage entre les scènes</li>",
 	
 	"ram_p0": "Jeu d'aventure sur smartphone avec Unity 3D (C#)",
-	"ram_p1": "Le gameplay mélange différents genres de jeux (aventure, infiltration, course) et fait évoluer le joueur dans une galaxie mise en péril par un groupe occulte. Ce projet a été réalisé dans le cadre de ma deuxième année de master en collaboration avec 6 autres personnes, d'octobre 2018 jusqu'à notre présentation au <i>Festival Internationnal des Jeux</i> à Cannes en février 2019. Initialement prévu avec plus de phases de gameplay, nous avons dù revoir le GDD et remplacer plusieurs phases par des cinématiques (celles en 2D) par manque de ressources temps et humaines.",
+	"ram_p1": "Le gameplay mélange différents genres de jeux (aventure, infiltration, course) et fait évoluer le joueur dans une galaxie mise en péril par un groupe occulte. Ce projet a été réalisé dans le cadre de ma deuxième année de master en collaboration avec 6 autres personnes, d'octobre 2018 jusqu'à notre présentation au <i>Festival International des Jeux de Cannes</i> en février 2019. Initialement prévu avec plus de phases de gameplay, nous avons dù revoir le GDD et remplacer plusieurs phases par des cinématiques (celles en 2D) par manque de ressources temps et humaines.",
 	"ram_p2": "<li>Développement de l'ensemble des fonctionnalités (seul développeur de l'équipe)</li><li>Intégration (sons / level design / images / animations / ...)</li><li>Aide à la 3D: la portée du projet a nécéssité que toute l'équipe produise des assets graphiques</li>",
 	
 	"perfect_match_p0": "Beat them all développé pour Android avec le moteur Unity3d (C#)",
-	"perfect_match_p1": "Le joueur y contrôle un couple de personnages qui devront se battre ensemble contre les sbires du maître des enfers, avec un seul objectif : se protéger l'un l'autre. Ce projet a été réalisé dans le cadre de ma première année de master en collaboration avec 5 autres personnes, d'octobre 2017 jusqu'à notre présentation au <i>Festival Internationnal des Jeux</i> à Cannes en février 2018.",
+	"perfect_match_p1": "Le joueur y contrôle un couple de personnages qui devront se battre ensemble contre les sbires du maître des enfers, avec un seul objectif : se protéger l'un l'autre. Ce projet a été réalisé dans le cadre de ma première année de master en collaboration avec 5 autres personnes, d'octobre 2017 jusqu'à notre présentation au <i>Festival International des Jeux de Cannes</i> en février 2018.",
 	"perfect_match_p2": "<li>Développement des patterns du boss et de chaque ennemi (machine à états)</li><li>Implémentation de A* (pathfinding) en se basant non pas sur le navmesh d'Unity mais sur les colliders</li><li>Intégration des animations du joueur, des objets et du boss</li>",
 	
 	"g7_p0": "Jeu de voiture sur Windows Phone en natif (C# / XAML)",

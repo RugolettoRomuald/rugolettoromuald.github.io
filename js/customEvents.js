@@ -30,6 +30,7 @@ $(document).ready(() => {
 	const modales = [
 		'resume',
 		'vuranib',
+		'dofus',
 		'darkness',
 		'excessive_speed',
 		'ram',
